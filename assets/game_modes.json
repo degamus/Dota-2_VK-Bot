@@ -6,27 +6,27 @@
   },
   "1": {
     "id": 1,
-    "name": "All pick",
+    "name": "All Pick",
     "balanced": true
   },
   "2": {
     "id": 2,
-    "name": "Captain's mode",
+    "name": "Captain's Mode",
     "balanced": true
   },
   "3": {
     "id": 3,
-    "name": "Random draft",
+    "name": "Random Draft",
     "balanced": true
   },
   "4": {
     "id": 4,
-    "name": "Single draft",
+    "name": "Single Draft",
     "balanced": true
   },
   "5": {
     "id": 5,
-    "name": "All random",
+    "name": "All Random",
     "balanced": true
   },
   "6": {
@@ -39,7 +39,7 @@
   },
   "8": {
     "id": 8,
-    "name": "Reverse Captain's mode"
+    "name": "Reverse Captain's Mode"
   },
   "9": {
     "id": 9,
@@ -51,16 +51,16 @@
   },
   "11": {
     "id": 11,
-    "name": "Mid only"
+    "name": "Mid Only"
   },
   "12": {
     "id": 12,
-    "name": "Least played",
+    "name": "Least Played",
     "balanced": true
   },
   "13": {
     "id": 13,
-    "name": "Limited heroes"
+    "name": "Limited Heroes"
   },
   "14": {
     "id": 14,
@@ -72,17 +72,17 @@
   },
   "16": {
     "id": 16,
-    "name": "Captain's draft",
+    "name": "Captain's Draft",
     "balanced": true
   },
   "17": {
     "id": 17,
-    "name": "Balanced draft",
+    "name": "Balanced Draft",
     "balanced": true
   },
   "18": {
     "id": 18,
-    "name": "Ability draft"
+    "name": "Ability Draft"
   },
   "19": {
     "id": 19,
