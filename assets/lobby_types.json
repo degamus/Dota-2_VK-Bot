@@ -20,16 +20,16 @@
   },
   "4": {
     "id": 4,
-    "name": "Coop bots"
+    "name": "Coop Bots"
   },
   "5": {
     "id": 5,
-    "name": "Ranked team mm",
+    "name": "Party Ranked",
     "balanced": true
   },
   "6": {
     "id": 6,
-    "name": "Ranked solo mm",
+    "name": "Solo Ranked",
     "balanced": true
   },
   "7": {
@@ -39,11 +39,11 @@
   },
   "8": {
     "id": 8,
-    "name": "1v1 mid"
+    "name": "1 vs 1"
   },
   "9": {
     "id": 9,
-    "name": "Battle cup",
+    "name": "Battle Cup",
     "balanced": true
   }
 }
